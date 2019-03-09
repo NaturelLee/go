@@ -1,0 +1,2 @@
+# gopathDirWithTools
+gopathDirWithTools
