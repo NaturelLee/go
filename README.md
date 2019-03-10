@@ -1,2 +1,1 @@
-# gopathDirWithTools
-gopathDirWithTools
+# go related
