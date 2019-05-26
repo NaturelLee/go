@@ -1,1 +1,1 @@
-# go related
+# go practices
